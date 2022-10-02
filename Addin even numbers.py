@@ -22,7 +22,8 @@ for n in range(0, 8, 2):
     t += n
 print(t)  
 
-
+#another way
+print(sum([number for number in range(8)if number % 2 == 0]))
 
 
 
