@@ -1,6 +1,6 @@
 import matplotlib.pyplot as p         
-s = [40,30,10,10,10]
-l = ["Benekli","Altin"," Amber", "Bagy", "Limon"]
+s = [20,10,50,13,7]
+l = ["Benekli","Altin"," Amber", "Bujy", "Limon"]
 p.pie(s, labels = l)
 p.show()
 
